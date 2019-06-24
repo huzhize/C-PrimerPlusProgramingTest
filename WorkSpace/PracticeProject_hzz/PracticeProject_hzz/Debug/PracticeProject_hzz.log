@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  chapter8.cpp
+e:\a_huzhize\source\repos\practiceproject_hzz\practiceproject_hzz\chapter8.cpp(97): error C2819: “StringTest”类型没有重载成员“operator ->”
+  e:\a_huzhize\source\repos\practiceproject_hzz\practiceproject_hzz\chapter8.h(15): note: 参见“StringTest”的声明
+  e:\a_huzhize\source\repos\practiceproject_hzz\practiceproject_hzz\chapter8.cpp(97): note: 是否改用“.”?
+e:\a_huzhize\source\repos\practiceproject_hzz\practiceproject_hzz\chapter8.cpp(97): error C2232: “->StringTest::str”: 左操作数有“struct”类型，使用“.”

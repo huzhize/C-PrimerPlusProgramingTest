@@ -1,0 +1,9 @@
+﻿  Main.cpp
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(103): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(139): warning C4305: “初始化”: 从“double”到“float”截断
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(140): warning C4305: “初始化”: 从“double”到“float”截断
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(152): warning C4305: “初始化”: 从“double”到“float”截断
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(347): warning C4018: “<”: 有符号/无符号不匹配
+e:\a_huzhize\source\repos\chapter17_io_file\chapter17_io_file\main.cpp(342): warning C4101: “len”: 未引用的局部变量
+  chapter17_IO_File.vcxproj -> E:\a_huzhize\source\repos\chapter17_IO_File\Debug\chapter17_IO_File.exe

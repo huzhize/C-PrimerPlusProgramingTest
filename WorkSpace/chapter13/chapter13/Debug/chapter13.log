@@ -1,0 +1,6 @@
+﻿  Cd.cpp
+  chapter13.cpp
+  正在生成代码...
+e:\a_huzhize\source\repos\chapter13\chapter13\cd.cpp(59): warning C4172: 返回局部变量或临时变量的地址: r
+e:\a_huzhize\source\repos\chapter13\chapter13\cd.cpp(84): warning C4172: 返回局部变量或临时变量的地址: r
+  chapter13.vcxproj -> E:\a_huzhize\source\repos\chapter13\Debug\chapter13.exe

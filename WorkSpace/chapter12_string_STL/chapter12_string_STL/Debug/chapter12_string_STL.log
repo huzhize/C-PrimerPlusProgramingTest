@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\a_huzhize\source\repos\chapter12_string_stl\chapter12_string_stl\main.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+e:\a_huzhize\source\repos\chapter12_string_stl\chapter12_string_stl\main.cpp(197): warning C4018: “<”: 有符号/无符号不匹配
+  chapter12_string_STL.vcxproj -> E:\a_huzhize\source\repos\chapter12_string_STL\Debug\chapter12_string_STL.exe
